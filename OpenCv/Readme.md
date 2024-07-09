@@ -1,0 +1,2 @@
+## Contiene un programa que detecta incendio en imagenes
+Para la practica de la implementacion de openCV en python se creo un programa sencillo que detecta incendios en imagenes, el programa permite al usuario proporcionar una imagen y el programa señala el lugar donde está el incendio y la seguridad de este de que sea un incendio.
