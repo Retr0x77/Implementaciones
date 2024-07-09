@@ -1,0 +1,1 @@
+Para la practica de la implementacion de openCV en python se creo un programa sencillo que detecta incendios en imagenes
