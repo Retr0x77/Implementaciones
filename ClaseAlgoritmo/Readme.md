@@ -1,0 +1,2 @@
+## Algoritmo que contiene metodos de busqueda y ordenamiento
+Se presenta en forma de menú en la consola, y permite al usuario entrar una cadena de números enteros, para luego proceder a aplicar los métodos de busqueda y ordenamiento en esa cadena. Contiene además la opcion para aplicar el método de dijkstra y el de Floyd-Warshall en un grafo previamente creado en el mismo código 
